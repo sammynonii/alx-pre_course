@@ -1,1 +1,1 @@
-My first readme. I love ☕
+My first readme
