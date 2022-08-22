@@ -1,1 +1,1 @@
-My first readme. I love :coffee
+My first readme
